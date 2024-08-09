@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kartikeysaxena12
-- 👀 I’m interested in ... Competetive Coding
-- 🌱 I’m currently learning ... C,C+=1,JAVA,PYTHON
-- 💞️ I’m looking to collaborate on ... AI/ML PROJECTS
+- 👀 I’m interested in ... WEB DEVELOPEMENT & WEB DESIGN
+- 🌱 I’m currently learning ... REACTJS, NEXTJS & BACKEND 
+- 💞️ I’m looking to collaborate on ... WEB DEV , AI/ML PROJECTS
 - 📫 How to reach me ... kartikeyasaxena99@gmail.com
 
 <!---
